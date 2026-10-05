@@ -1,6 +1,8 @@
 
 # 👁️‍🗨️ Real-Time Object Detection Using Haar Cascades
 
+> **Maintained by [Jennita S](https://github.com/Jennita-Santhakumar)** · [LinkedIn](https://linkedin.com/in/jennitas) · jennitasanthakumar0@gmail.com
+
 **Author**: A. Kabilesh Rajaselvan
 **Reg. No**: 21MIA1132
 **Institution**: VIT Chennai – SCOPE School
@@ -114,4 +116,6 @@ To perform **real-time object detection** using OpenCV's **Haar Cascade Classifi
 * Lighting and camera quality can affect detection accuracy
 * For better results, you may explore DNN-based models or `dlib`
 
+## Credits
 
+Developed by Kabilesh Rajaselvan with contributions from Jennita S.
